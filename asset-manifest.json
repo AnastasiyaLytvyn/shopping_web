@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnastasiyaLytvyn/shopping_web/static/css/main.7acaea2f.css",
+    "main.js": "/AnastasiyaLytvyn/shopping_web/static/js/main.07d3183d.js",
+    "index.html": "/AnastasiyaLytvyn/shopping_web/index.html",
+    "main.7acaea2f.css.map": "/AnastasiyaLytvyn/shopping_web/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/AnastasiyaLytvyn/shopping_web/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
