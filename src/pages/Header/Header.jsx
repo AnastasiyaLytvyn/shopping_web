@@ -1,6 +1,6 @@
 export const Header = () => {
   return (
-    <div
+    <header
       style={{
         display: 'flex',
         height: '70px',
@@ -13,6 +13,6 @@ export const Header = () => {
       }}
     >
       This is Header
-    </div>
+    </header>
   );
 };

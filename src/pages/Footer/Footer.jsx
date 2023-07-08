@@ -1,6 +1,6 @@
 export const Footer = () => {
-    return (
-        <div
+  return (
+    <footer
       style={{
         display: 'flex',
         height: '70px',
@@ -13,6 +13,6 @@ export const Footer = () => {
       }}
     >
       This is Footer
-    </div>
-    )
-}
+    </footer>
+  );
+};
